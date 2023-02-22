@@ -5,6 +5,7 @@ My name is Carrie Cox and I am a graduate student in the Master of Science, Busi
 I am currently developing analytical skills in R Studio, SQL Oracle, and Python, Jupyter Hub, Tableu, Power BI, and JMP.
 
 📫 How to reach me: carrie-cox@uiowa.edu
+
 😄 Pronouns: she/her/hers
 
 
