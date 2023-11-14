@@ -6,7 +6,7 @@ My passion for data and analytics stems from my love for marketing strategy. I s
 
 I am also skilled in Python, R, and Tableau, Orange Data Mining, and JMP from my college courses. My repositories consist of projects from my MSBA courses over the last year and a half.
 
-Combining my work and academic experience, I have developed a strong passion for data visualization, storytelling, and consumer behavior. I strive to be a leader, team-player, hard-worker, and excellent communicator in personal and professional settings and would like to transfer these skills into creating a career for myself.
+Combining my work and academic experience, I have developed a strong passion for data visualization, storytelling, and consumer behavior. I strive to be a leader, team-player, hard-worker, and excellent communicator in personal and professional settings and am eager to transfer these skills into creating a career for myself.
 
 
 📫 How to reach me: carrie-cox@uiowa.edu
